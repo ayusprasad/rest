@@ -1,0 +1,4 @@
+git status ; git add . ; git commit -m "notebook" ; git push origin main
+Invoke-Item "m:\rest\rest-1\output.html"
+
+Invoke-Item "m:\rest\rest-1\output1.html"
